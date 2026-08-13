@@ -153,4 +153,4 @@ The PREP-SHOT model is an academic project and is not intended to be used as a p
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PREP-NexT/PREP-SHOT&type=Date)](https://star-history.com/#PREP-NexT/PREP-SHOT&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=PREP-NexT/PREP-SHOT&type=Date)](https://star-history.dera.page/#PREP-NexT/PREP-SHOT&Date)
